@@ -116,7 +116,7 @@ This project helps businesses:
 - Excel Analysis Report
 - Power BI Dashboard
 - Data Cleaning & Transformation Workflow
-- KPI Reports
-- Business Insights & Recommendations
+- KPI Reports ((Inside Excel File)
+- Business Insights & Recommendations (Inside Excel File)
 
 ---
